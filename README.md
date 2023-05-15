@@ -1,6 +1,6 @@
 # Simple PORTFOLIO WEBSITE
 
-#[Portfolio](https://chaitanyakatore.github.io/portfolio.io/)
+#[Chaitanya's Portfolio website](https://chaitanyakatore.github.io/portfolio.io/)
 
 this website is simple portfolio website made using
 
